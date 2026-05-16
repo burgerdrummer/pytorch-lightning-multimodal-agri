@@ -78,7 +78,6 @@ A model that is wrong but highly certain is a liability in production. The noteb
 
 ## 🔮 Future Enhancements
 
-* Full-Stack Observability: Routing real-time inference logs (weather payloads + model confidence) into an ELK Stack (Elasticsearch, Logstash, Kibana) to monitor for Data Drift.
 * Hyperparameter Tuning: Integrating Optuna to automate the optimization of learning rates, batch sizes, and dropout layers.
 * Streamlit Deployment: Building an interactive frontend where farmers can upload photos and adjust weather sliders for real-time inference.
 
